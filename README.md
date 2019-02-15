@@ -4,16 +4,14 @@ Commands and scripts that work with GAMADV-XTD
 # Main credit
 
 Oryginal GAM, simpler, easy to use:
-
 https://github.com/jay0lee/GAM/wiki
 
-Updated GAM, more compicated but can do more:
 
+Updated GAM, more compicated but can do more:
 https://github.com/taers232c/GAMADV-XTD/wiki
 
 
 GAMADV-XTD, google group / forum / comunity:
-
 https://groups.google.com/forum/#!forum/google-apps-manager
 
 

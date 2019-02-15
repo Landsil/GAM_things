@@ -17,5 +17,6 @@ https://groups.google.com/forum/#!forum/google-apps-manager
 
 # Unless otherwise specified assume this:
 1. Things are made to work with GAMADV-XTD
-2. Python == Python 3.x
-3. My setup is on Compute Endinge on GCP with supper admin, I access with SSH from terminal with GCP sdk installed.
+2. GAM == GAMADV-XTD
+3. Python == Python 3.x
+4. My setup is on Compute Endinge on GCP with supper admin, I access with SSH from terminal with GCP sdk installed.

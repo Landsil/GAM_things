@@ -20,3 +20,6 @@ https://groups.google.com/forum/#!forum/google-apps-manager
 2. GAM == GAMADV-XTD
 3. Python == Python 3.x
 4. My setup is on Compute Endinge on GCP with supper admin, I access with SSH from terminal with GCP sdk installed.
+
+# Simple Scripts
+1. give_file_to.sh - gives edit access to file based on fileID

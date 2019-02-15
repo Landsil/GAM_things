@@ -1,5 +1,5 @@
 # GAM_things
-Commands and scripts that work with GAMADV-XTD
+Commands and scripts that work with GAMADV-XTD or are generally usefull in the process of using it.
 
 # Main credit
 
@@ -15,7 +15,7 @@ GAMADV-XTD, google group / forum / comunity:
 https://groups.google.com/forum/#!forum/google-apps-manager
 
 
-Unless otherwise specified.
+# Unless otherwise specified assume this:
 1. Things are made to work with GAMADV-XTD
 2. Python == Python 3.x
 3. My setup is on Compute Endinge on GCP with supper admin, I access with SSH from terminal with GCP sdk installed.

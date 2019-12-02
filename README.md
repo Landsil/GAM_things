@@ -3,15 +3,14 @@ Commands and scripts that work with GAMADV-XTD or are generally usefull in the p
 
 # Main credit
 
-Oryginal GAM, simpler, easy to use:
+##### Oryginal GAM, simpler, easy to use:
 https://github.com/jay0lee/GAM/wiki
 
 
-Updated GAM, more compicated but can do more:
-https://github.com/taers232c/GAMADV-XTD/wiki
+##### Updated GAM, more compicated but can do more (this one is also in Python 3):
+https://github.com/taers232c/GAMADV-XTD3
 
-
-GAMADV-XTD, google group / forum / comunity:
+##### GAMADV-XTD, google group / forum / comunity:
 https://groups.google.com/forum/#!forum/google-apps-manager
 
 

@@ -6,7 +6,7 @@
     domain = your full domain eg: github.com
 
 1. Update your GAM
-  bash <(curl -s -S -L https://git.io/vAAj9) -l
+  bash <(curl -s -S -L https://git.io/fhZWP) -l
   
   
 2. Full list of all chrome devices with full info. (chromebook / chromebox with a lincence), saves to csv
